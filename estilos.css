@@ -1,3 +1,14 @@
-#buenas {
-    background-color: blue;
+
+.ptm {
+    background-color: rgb(211, 69, 224);
+    border-radius: 2%;
+    margin: 10%;
+}
+
+body{
+    background-color: rgb(238, 157, 218);
+}
+
+#texto-centrado{
+    text-align: center;
 }
