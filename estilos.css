@@ -1,14 +1,25 @@
 
-.ptm {
-    background-color: rgb(211, 69, 224);
-    border-radius: 2%;
-    margin: 10%;
-}
+
 
 body{
     background-color: rgb(238, 157, 218);
 }
 
-#texto-centrado{
+.tl{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: rgb(197, 38, 105);
+    border-radius: 20px;
+    margin: 6%;
+    padding: 01%;
+}
+.chocolate{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 70, 224);
+    padding: 5%;
+    margin-right: 77%;
+    border-radius: 05%;
+}
+.rodete{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
